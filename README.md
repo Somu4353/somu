@@ -1,0 +1,2 @@
+# somu
+devops projects
